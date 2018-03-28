@@ -5072,7 +5072,7 @@ Rigidbody2D:
   m_Mass: 1
   m_LinearDrag: 0
   m_AngularDrag: 0.05
-  m_GravityScale: 1
+  m_GravityScale: 10
   m_Material: {fileID: 0}
   m_Interpolate: 0
   m_SleepingMode: 1
@@ -5173,7 +5173,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   speed: 12
-  jumpPower: 500
+  jumpPower: 1600
   run:
   - {fileID: 21300000, guid: 8f9c6d354684e64498e8e0f4d0bdeb16, type: 3}
   - {fileID: 21300000, guid: 32a65f72868e96045a552cf9cdbb426e, type: 3}
